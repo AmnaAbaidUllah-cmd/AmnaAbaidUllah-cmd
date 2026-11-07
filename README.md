@@ -104,20 +104,7 @@ Outside the terminal, I care deeply about **leadership**, **self-growth**, **pho
     <a href="https://www.kernel.org"><img src="assets/tech/linux.svg" height="48" alt="Linux" title="Linux"/></a> &nbsp;
     <a href="https://ubuntu.com"><img src="assets/tech/ubuntu.svg" height="48" alt="Ubuntu" title="Ubuntu"/></a>
   </p>
-Use GitHub's AI pair programmer to autocomplete suggestions as you code.
 
-Get started with GitHub Copilot
-Add collaborators to this repository
-Search for people using their GitHub username or email address.
-
-Invite collaborators
-Quick setup — if you’ve done this kind of thing before
-￼
-HTTPS
-￼
-SSH
-￼￼
-Get started by creating a new file or uploading an existing file. We recommend every repository
 
   <h3 align="center">🧠 Data & AI</h3>
 
