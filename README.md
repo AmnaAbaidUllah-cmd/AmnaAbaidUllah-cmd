@@ -46,7 +46,7 @@
   <tr>
   <td width="72%" valign="top">
 
-Hi, I'm **Amna** 👋 — a **Computer Science student at Quaid-i-Azam University (2024–2028)** and an aspiring software professional. I'm building strong foundations in **software development**, **AI**, and **modern computing systems**, and I love turning curiosity into code and ideas into impact.
+Assallam U Alaikum, I'm **Amna** 👋 — a **Computer Science student at Quaid-i-Azam University (2024–2028)** and an aspiring software professional. I'm building strong foundations in **software development**, **AI**, and **modern computing systems**, and I love turning curiosity into code and ideas into impact.
 
 Outside the terminal, I care deeply about **leadership**, **self-growth**, **photography**, and **creativity** — combining analytical precision with creative vision.
 
