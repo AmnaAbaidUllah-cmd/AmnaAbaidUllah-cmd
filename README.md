@@ -139,7 +139,6 @@ Outside the terminal, I care deeply about **leadership**, **self-growth**, **pho
     <a href="https://filmora.wondershare.com"><img src="assets/tech/filmora.svg" height="48" alt="Filmora" title="Filmora"/></a> &nbsp;
     <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="assets/tech/lightroom.svg" height="48" alt="Lightroom" title="Lightroom"/></a> &nbsp;
     <a href="https://www.canva.com"><img src="assets/tech/canva.svg" height="48" alt="Canva" title="Canva"/></a> &nbsp;
-    <a href="https://www.audacityteam.org"><img src="assets/tech/audacity.svg" height="48" alt="Audacity" title="Audacity"/></a> &nbsp;
   </p>
 
   <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
