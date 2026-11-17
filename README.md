@@ -25,7 +25,6 @@
 <a href="#toolbox"><kbd> 🧸 Toolbox </kbd></a>
 <a href="#projects"><kbd> 💻 Projects </kbd></a>
 <a href="#achievements"><kbd> 🏅 Achievements </kbd></a>
-<a href="#stats"><kbd> 📊 Stats </kbd></a>
 <a href="#contact"><kbd> 💌 Contact </kbd></a>
 
 <br/><br/>
