@@ -210,9 +210,7 @@ Outside the terminal, I care deeply about **leadership**, **self-growth**, **pho
 
   <div align="center">
 
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmnaAbaidUllah-cmd&show_icons=true&include_all_commits=true&bg_color=FFF5F9&title_color=9B6FB3&text_color=5B3F8C&icon_color=F08FB0&ring_color=F08FB0&hide_border=true&border_radius=16" alt="GitHub stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmnaAbaidUllah-cmd&layout=compact&langs_count=8&bg_color=FFF5F9&title_color=9B6FB3&text_color=5B3F8C&icon_color=F08FB0&ring_color=F08FB0&hide_border=true&border_radius=16" alt="Top languages"/>
+
 
 <br/><br/>
 
