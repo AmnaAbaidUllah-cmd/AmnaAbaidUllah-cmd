@@ -244,6 +244,5 @@ Always happy to connect about **software development, AI, photography, or creati
 
   <img src="assets/footer.svg" alt="A pixel bunny hopping through a meadow — Turning curiosity into code, and ideas into impact." width="100%"/>
 
-<sub>🐰 Made with a little pixel magic and a lot of ambition 🌸</sub>
 
   </div>
